@@ -1,2 +1,3 @@
 # ZafarTest
-To test with Automation
+To test with Automation.
+Author - Zafar Shaikh
